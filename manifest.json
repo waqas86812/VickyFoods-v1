@@ -1,9 +1,9 @@
 {
-    "short_name": "Vicky Foods",
-    "name": "Vicky Foods",
+    "short_name": "Vicky",
+    "name": "Vicky",
     "icons": [
       {
-        "src": "pic/logo.PNG",
+        "src": "pic/logo2.PNG",
         "type": "image/png",
         "sizes": "64x64 32x32 24x24 16x16 192x192 512x512"
       }
