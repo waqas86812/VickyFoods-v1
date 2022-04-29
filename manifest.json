@@ -3,12 +3,12 @@
     "name": "Vicky Foods",
     "icons": [
       {
-        "src": "pic/logo.png",
+        "src": "assets/img/apple-icon.png",
         "type": "image/png",
         "sizes": "64x64 32x32 24x24 16x16 192x192 512x512"
       }
     ],
-    "start_url": " https://waqas86812.github.io/VickyFoods/",
+    "start_url": " https://waqas86812.github.io/vickyfood/",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
