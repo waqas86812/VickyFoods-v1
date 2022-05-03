@@ -87,9 +87,10 @@ function addProductToCart(title, price, productImg) {
     cartShopBox.classList.add("cart-box");
     var cartItems = document.getElementsByClassName("cart-content")[0];
     var cartItemsNames = cartItems.getElementsByClassName("cart-product-title");
+    alert("You have add this item to cart.");
     for  (var i = 0; i < cartItemsNames.length; i++) {
         if (cartItemsNames[i].innerText == title) {
-            alert("You have already add this item to cart.");
+            alert("Oops！This item is already in cart～");
             return;
         }
         
